@@ -2,6 +2,9 @@
 
 Experimental searchable, lossless, SHA-verifiable archive pipeline for structured text datasets.
 
+This repository is a public project brief and benchmark disclosure for GFZS StackPack.  
+The implementation is not currently open source.
+
 ## Overview
 
 GFZS StackPack is an experimental archive/container pipeline for structured text datasets.
