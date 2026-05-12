@@ -47,6 +47,8 @@ The following benchmark comes from a completed local prototype run, not from a t
 
 The run used the current GFZS StackPack prototype on a mixed directory containing 300 source files, mostly StackExchange archive inputs. The resulting GFZS pack completed SHA verification for the tested records and passed a basic container search smoke test.
 
+Detailed benchmark note: [`docs/benchmarks/stackexchange-300-local-run.md`](docs/benchmarks/stackexchange-300-local-run.md)
+
 ### Configuration summary
 
 The exact low-level tuning profile is intentionally summarized here because the prototype format and profile selection logic are still evolving.
