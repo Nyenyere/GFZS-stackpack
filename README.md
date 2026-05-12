@@ -64,7 +64,7 @@ The exact low-level tuning profile is intentionally summarized here because the 
 |---|---:|
 | Source files | 300 |
 | StackExchange archive sources | 288 |
-| Generic/raw fallback records | 12 |
+| Generic/auxiliary fallback records | 12 |
 | Original input size | 2952.35 MB |
 | GFZS output size | 1984.76 MB |
 | Size reduction | 967.59 MB |
